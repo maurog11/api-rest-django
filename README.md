@@ -5,7 +5,12 @@ Esta es una aplicacion básica de Django para consultar personas y sus respectiv
 - Usando APIView
 - Usando JWT 
 
-## Instalación
+## Requerimientos
+
+Para ejecutar el proyecto, se requiere tener instalados:
+- Python versiones 3 (superiores a la 3.6)
+- virtualenv
+- Gestor de Base de Batos (MySQL)
 
 Crear ambiente virtual
 ```
